@@ -1,0 +1,146 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Morgan Sung",
+            "title": "Selkie founder defends use of AI in new dress collection amid backlash | TechCrunch",
+            "description": "When Selkie, the fashion brand viral on Instagram and TikTok for its frothy, extravagant dresses, announces new collections, reception is generally When Selkie, the Instagram and TikTok viral dress brand, announced that it had used generative AI to design its…",
+            "url": "https://techcrunch.com/2024/01/19/selkie-founder-defends-ai-collection-kimberley-gordon-valentines-day/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/HOME-IS-WHERE-THE-HEART-SELKIE-MAIN-39.jpg?resize=1200,800",
+            "category": "technology",
+            "publishedAt": "2024-01-19T23:21:53Z",
+            "content": "When Selkie, the fashion brand viral on Instagram and TikTok for its frothy, extravagant dresses, announces new collections, reception is generally positive. Known for its size inclusivity its sizing… [+8704 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-Bicchierai",
+            "title": "Hackers breached Microsoft to find out what Microsoft knows about them | TechCrunch",
+            "description": "On Friday, Microsoft disclosed that the hacking group it calls Midnight Blizzard, also known as APT29 — and widely believed to be sponsored by the Russian",
+            "url": "https://techcrunch.com/2024/01/19/hackers-breached-microsoft-to-find-out-what-microsoft-knows-about-them/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800",
+            "category": "technology",
+            "publishedAt": "2024-01-19T23:06:43Z",
+            "content": "On Friday, Microsoft disclosed that the hacking group it calls Midnight Blizzard, also known as APT29 and widely believed to be sponsored by the Russian government hacked some corporate email account… [+1954 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'Kane",
+            "title": "Lordstown Motors founder launches new EV startup with trucks we've seen before | TechCrunch",
+            "description": "Lordstown Motors founder Steve Burns has a new startup that will try and sell an EV pickup built on assets he bought out of bankruptcy.",
+            "url": "https://techcrunch.com/2024/01/19/lordstown-motors-steve-burns-landx-motors-endurance-pickup/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/landx-motors-lordstown-endurance.jpg?resize=1200,631",
+            "category": "technology",
+            "publishedAt": "2024-01-19T21:41:42Z",
+            "content": "The ousted founder of bankrupt EV startup Lordstown Motors has launched a new company called LandX Motors, that prominently displays the same electric pickup truck he once promised would beat Tesla, … [+3593 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "After Netflix says no, other app makers debate a Vision Pro launch | TechCrunch",
+            "description": "YouTube is following in Netflix’s footsteps as it decides not to release a dedicated app for the Apple Vision Pro’s upcoming launch. Like Netflix YouTube is following in Netflix’s footsteps as it decides not to release a dedicated app for the Apple Vision Pro…",
+            "url": "https://techcrunch.com/2024/01/19/youtube-and-other-apps-missing-from-apple-vision-pro-launch/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/wwdc-2023-vision-pro-lifestyle-plane-e1686004427171.jpg?w=1200",
+            "category": "technology",
+            "publishedAt": "2024-01-19T21:21:08Z",
+            "content": "YouTube is following in Netflixs footsteps as it decides not to release a dedicated app for the Apple Vision Pros upcoming launch. Like Netflix subscribers, viewers will have to go to the web browser… [+2962 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "TikTok usage is starting to slow -- is TikTok Shop to blame? | TechCrunch",
+            "description": "TikTok may have been the world's top app by downloads and consumer spending in 2023, but it was not the top by actual usage. Last year, Facebook again",
+            "url": "https://techcrunch.com/2024/01/19/tiktok-usage-is-starting-to-slow-is-tiktok-shop-to-blame/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/tiktok-logo-on-phone.jpg?resize=1200,800",
+            "category": "technology",
+            "publishedAt": "2024-01-19T19:57:18Z",
+            "content": "TikTok may have been the world’s top app by downloads and consumer spending in 2023, but it was not the top by actual usage. Last year, Facebook again maintained its No. 1 position by monthly active … [+4580 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "I spent the morning with the Apple Vision Pro | TechCrunch",
+            "description": "Update: The Vision Pro is now available for pre-order on Apple's site for $3,500. Apple has also offered a better look with a 10-minute 'guided tour' of",
+            "url": "https://techcrunch.com/2024/01/19/i-spent-the-morning-with-the-apple-vision-pro/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/IMG_0327.jpg?resize=1200,900",
+            "category": "technology",
+            "publishedAt": "2024-01-19T19:43:22Z",
+            "content": "Update: The Vision Pro is now available for pre-order on Apple’s site for $3,500. Apple has also offered a better look with a 10-minute ‘guided tour‘ of the device. It’s set to start shipping Februar… [+15472 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Japan's SLIM mission makes historic Moon landing, but its time is running out | TechCrunch",
+            "description": "Japan's long-planned Smart Lander for Investigating Moon has successfully touched down on the lunar surface, making the nation the fifth in history to do",
+            "url": "https://techcrunch.com/2024/01/19/japans-slim-mission-makes-historic-moon-landing-but-its-time-is-running-out/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/slim-lander-render.jpg?w=1170",
+            "category": "technology",
+            "publishedAt": "2024-01-19T19:08:45Z",
+            "content": "Japan’s long-planned Smart Lander for Investigating Moon has successfully touched down on the lunar surface, making the nation the fifth in history to do so. But all is not well for SLIM, which may h… [+2302 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Forget Apple Vision Pro – rabbit r1 is 2024's most exciting launch yet | TechCrunch",
+            "description": "Apple Vision Pro pre-orders started today, but the fancy new gadget from an industry titan is far less interesting than a tiny one from an upstart.",
+            "url": "https://techcrunch.com/2024/01/19/forget-apple-vision-pro-rabbit-r1-is-2024s-most-exciting-launch-yet/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/vision-pro-rabbit-r1.jpg?resize=1200,567",
+            "category": "technology",
+            "publishedAt": "2024-01-19T18:47:27Z",
+            "content": "The year is off to a quick start in terms of new product launches and availability, even leaving aside the usual mid-tier smorgasbord that is CES. Apple just started pre-sales of its Vision Pro mixed… [+4141 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "A new dawn for maker tech startups | TechCrunch",
+            "description": "Welcome to Startups Weekly — your weekly recap of everything you can’t miss from the world of startups. Sign up here to get it in your inbox every Friday.",
+            "url": "https://techcrunch.com/2024/01/19/a-new-dawn-for-maker-tech-startups/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/20240111-DSC00274.jpg?resize=1200,800",
+            "category": "technology",
+            "publishedAt": "2024-01-18T23:18:26Z",
+            "content": "Welcome to Startups Weekly your weekly recap of everything you cant miss from the world of startups. Sign up here to get it in your inbox every Friday.\r\nThe startup train just keeps on rumblin down t… [+6447 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Karyne Levy",
+            "title": "The unicorns among us | TechCrunch",
+            "description": "The pendulum swung hard in the direction of B2B startups over the last decade — but the thing with pendulums is that eventually they swing back.",
+            "url": "https://techcrunch.com/2024/01/19/the-unicorns-among-us/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-544433025.jpg?resize=1200,792",
+            "category": "technology",
+            "publishedAt": "2024-01-18T21:37:52Z",
+            "content": "Ten years ago, Cowboy Ventures founder Aileen Lee coined the term unicorn to describe startups that reached $1 billion valuation. At the time, there were only 39 startups on the list, but cut to toda… [+2408 chars]"
+        }
+    ]
+}

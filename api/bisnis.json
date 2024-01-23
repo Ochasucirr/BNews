@@ -1,0 +1,286 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "U.S. is producing a record 13.2 million barrels per day - MSNBC",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=tbbEzZDZieE",
+            "urlToImage": null,
+            "category": "business",
+            "publishedAt": "2024-01-20T05:00:29Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones, S&P 500 Hit Record Highs As Leading Stocks Run; Tesla, Netflix Earnings Due - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp-500-hit-record-highs-leading-stocks-run-tesla-netflix-earnings-due/",
+            "urlToImage": null,
+            "category": "business",
+            "publishedAt": "2024-01-20T03:51:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Warren Buffett tells Citigroup CEO Fraser to keep going with overhaul -source - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/finance/warren-buffett-tells-citigroup-ceo-fraser-keep-going-with-overhaul-source-2024-01-20/",
+            "urlToImage": null,
+            "category": "business",
+            "publishedAt": "2024-01-20T01:30:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Pocharapon Neammanee",
+            "title": "Flight Attendant Arrested After Filming Young Girls In Plane Bathroom: Feds - HuffPost",
+            "description": "A 14-year-old girl spotted the American Airlines flight attendant’s phone taped to a toilet seat, court documents say.",
+            "url": "https://www.huffpost.com/entry/american-airlines-flight-attendant-hidden-camera-bathroom_n_65aae02ce4b00bbb446f2bd3",
+            "urlToImage": "https://img.huffingtonpost.com/asset/65aaf80a2300002000807357.jpeg?cache=dg14FHzoLB&ops=1200_630",
+            "category": "business",
+            "publishedAt": "2024-01-20T01:09:44Z",
+            "content": "An American Airlines flight attendant was arrested in Virginia on Thursday by federal agents who accused him of recording young girls in airplane bathrooms, federal prosecutors in Massachusetts annou… [+6082 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "JetBlue, Spirit Airlines to Appeal Merger Block - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/airlines/spirit-airlines-looking-to-refinance-1-1b-in-debt-c51526f7",
+            "urlToImage": null,
+            "category": "business",
+            "publishedAt": "2024-01-20T00:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ariel Zilber",
+            "title": "Google employees blast 'profoundly boring' management which lacks 'visionary leader' amid layoffs - New York Post ",
+            "description": "“From the C-suite to the SVPs to the VPs, they are all profoundly boring and glassy-eyed,” a Google staffers wrote on her LinkedIn page on Wednesday.",
+            "url": "https://nypost.com/2024/01/19/business/google-employees-blast-profoundly-boring-management-which-lacks-visionary-leader-amid-layoffs/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-0185hzg9u-1705699528966.jpg?quality=75&strip=all&1705681561&w=1024",
+            "category": "business",
+            "publishedAt": "2024-01-20T00:09:00Z",
+            "content": "Angry Googlers are finished being nice.\r\nCurrent and former employees of the tech behemoth took to LinkedIn to vent their frustrations at the way management has handled the most recent round of layof… [+3155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Julie Coleman",
+            "title": "Cramer's Lightning Round: Do not own Invesco Mortgage Capital - CNBC",
+            "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+            "url": "https://www.cnbc.com/2024/01/19/cramers-lightning-round-do-not-own-invesco-mortgage-capital.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507383-Lightning-Round.jpg?v=1698361043&w=1920&h=1080",
+            "category": "business",
+            "publishedAt": "2024-01-19T23:56:19Z",
+            "content": "Commerce Bancshares: \"I like that bank very, very much.\"\r\nInvesco Mortgage Capital: \"I don't know what mortgages they have, and therefore I cannot recommend this stock. And I suggest that you do not … [+461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WTOP"
+            },
+            "author": "Will Vitka",
+            "title": "Boil Water Advisory issued for much of Northwest DC - WTOP",
+            "description": "DC Water issued a Boil Water Advisory for a large swath of Northwest D.C. on Friday evening following a water main break.",
+            "url": "https://wtop.com/dc/2024/01/boil-water-advisory-issued-for-much-of-northwest-dc/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2023/05/GettyImages-1390101981.jpg",
+            "category": "business",
+            "publishedAt": "2024-01-19T23:31:25Z",
+            "content": "DC Water issued a Boil Water Advisory for a large swath of Northwest D.C. on Friday evening following a water main break.The District agency said it was a “precautionary notice to customers in the im… [+2616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Federal News Network"
+            },
+            "author": "Jason Miller",
+            "title": "CISA mandates agencies close 2 cyber vulnerabilities immediately - Federal News Network",
+            "description": "The Cybersecurity and Infrastructure Security Agency issued an emergency directive after software firm Ivanti discovered vulnerabilities in two widely-used products.",
+            "url": "https://federalnewsnetwork.com/cybersecurity/2024/01/cisa-mandates-agencies-close-2-cyber-vulnerabilities-immediately/",
+            "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2024/01/CISA-agency.jpg",
+            "category": "business",
+            "publishedAt": "2024-01-19T23:17:17Z",
+            "content": "Agencies have until the end of Monday to close two major cybersecurity vulnerabilities.\r\nThe Cybersecurity and Infrastructure Security Agency issued an emergency directive after software firm Ivanti … [+5839 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "The Hill",
+            "title": "Elizabeth Holmes banned from federal health programs for 90 years - The Hill",
+            "description": null,
+            "url": "https://thehill.com/policy/healthcare/4418691-elizabeth-holmes-banned-from-federal-health-programs-90-years/",
+            "urlToImage": null,
+            "category": "business",
+            "publishedAt": "2024-01-19T23:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Josh Kosman, Miles Schachner",
+            "title": "Sports Illustrated's entire staff told they are getting laid off - New York Post ",
+            "description": "It is a dark day for sports journalism.",
+            "url": "https://nypost.com/2024/01/19/business/sports-illustrateds-entire-staff-told-they-are-getting-laid-off/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/sports-illustrated-entire-staff-layoff-comp.jpg?quality=75&strip=all&w=1024",
+            "category": "business",
+            "publishedAt": "2024-01-19T23:03:45Z",
+            "content": "The future of iconic magazine Sports Illustrated looked dire Friday after the publisher announced mass layoffs.\r\nThe Arena Group which had been roiled by reports that the fabled magazine published AI… [+5150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Michelle Lewis",
+            "title": "The US Treasury just released EV charger tax credit guidance – here's how to find out if you qualify - Electrek",
+            "description": "The US Treasury Department released updated guidance today on EV charger tax credit eligibility – here's the lowdown.",
+            "url": "https://electrek.co/2024/01/19/the-us-treasury-just-released-ev-charger-tax-credit-guidance-heres-how-to-find-out-if-you-qualify/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/01/DOE-30C-mapping-tool.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "category": "business",
+            "publishedAt": "2024-01-19T22:45:00Z",
+            "content": "Map: US Department of Energy\r\nThe US Treasury Department released updated guidance today on EV charger tax credit eligibility for individuals and businesses here’s the lowdown.\r\nWhen the Inflation Re… [+3206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Koller",
+            "title": "Crypto entrepreneur charged with defrauding investors out of $150 million through marketing scheme - CNBC",
+            "description": "Federal prosecutors announced charges against a German businessman, alleging he scammed investors out of more than $150 million in a crypto fraud scheme.",
+            "url": "https://www.cnbc.com/2024/01/19/crypto-entrepreneur-charged-defrauding-investors-scam.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107331286-1699500460360-gettyimages-1084652216-775284977.jpeg?v=1705704140&w=1920&h=1080",
+            "category": "business",
+            "publishedAt": "2024-01-19T22:16:37Z",
+            "content": "Federal prosecutors on Friday announced charges against a German businessman, alleging he scammed investors out of more than $150 million in a crypto fraud scheme.\r\nProsecutors said Horst Jicha promo… [+1967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Mat Di Salvo",
+            "title": "Grayscale Is Sending Bitcoin to Coinbase in $500 Million Clips—Here’s Why - Decrypt",
+            "description": "Cash continues to flow out from Grayscale's Bitcoin ETF, while other funds see gains. Here's what's going on.",
+            "url": "https://decrypt.co/213564/grayscale-sending-bitcoin-coinbase-500-million-why",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/02/Webp.net-resizeimage29-gID_7.jpg",
+            "category": "business",
+            "publishedAt": "2024-01-19T21:57:21Z",
+            "content": "Is Grayscale dumping billions of dollars worth of Bitcoin? Blame it on the ETFs.\r\nBitcoin has taken a hard hit this week, falling by over 14%, despite the historic approval of spot crypto exchange-tr… [+2767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "iRobot, Spirit Airlines, Super Micro, AMD, Wayfair, Ally, Chegg, AT&T, and More Movers - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/stock-market-movers-8250caa0",
+            "urlToImage": null,
+            "category": "business",
+            "publishedAt": "2024-01-19T21:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jordan Novet, Rohan Goswami",
+            "title": "Microsoft executive emails hacked by Russian intelligence group, company says - CNBC",
+            "description": "The same group that carried out the SolarWinds attack that hit Microsoft and U.S. government agencies in 2020 infiltrated Microsoft leaders' email accounts.",
+            "url": "https://www.cnbc.com/2024/01/19/microsoft-executive-emails-hacked-by-russian-intelligence-group-company-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106341013-1579211430551pic2.jpg?v=1705704991&w=1920&h=1080",
+            "category": "business",
+            "publishedAt": "2024-01-19T21:49:06Z",
+            "content": "Microsoft said in a Friday regulatory filing that a Russian intelligence group accessed some of the software maker's top executives' email accounts. Nobelium, the same group that breached government … [+3497 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Dylan Sloan",
+            "title": "Stellantis CEO warns of EV ‘bloodbath’ and ‘race to the bottom’ if car makers follow Elon Musk’s lead and start cutting prices - Fortune",
+            "description": "“I know a company that has brutally cut pricing and their profitability has brutally collapsed,” Carlos Tavares said, without using Tesla's name.",
+            "url": "https://fortune.com/2024/01/19/elon-musk-tesla-stellantis-ev-bloodbath-race-to-bottom/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1797683535-e1705699634609.jpg?resize=1200,600",
+            "category": "business",
+            "publishedAt": "2024-01-19T21:41:00Z",
+            "content": "As EV demand cools, Elon Musk has stayed ahead of the field by cutting prices for Teslas flagship cars and sacrificing profitability to boost demand. But a competing CEO warned of a possible red ocea… [+2549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "SMCI Stock Soars As Supermicro Hikes Outlook - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/news/technology/smci-stock-soars-as-supermicro-hikes-outlook/",
+            "urlToImage": null,
+            "category": "business",
+            "publishedAt": "2024-01-19T21:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Megan Henney",
+            "title": "Fed's Daly warns it would be 'premature' to think rate cuts are around the corner - Fox Business",
+            "description": "Federal Reserve President of San Francisco Mary Daly on Friday warned that it would be \"premature\" to assume that interest rate cuts are around the corner.",
+            "url": "https://www.foxbusiness.com/economy/feds-daly-warns-premature-think-rate-cuts-around-corner",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/08/0/0/GettyImages-1133056420-e1659626878624.jpg?ve=1&tl=1",
+            "category": "business",
+            "publishedAt": "2024-01-19T20:50:07Z",
+            "content": "San Francisco Federal Reserve President Mary Daly on Friday pumped the brakes on Wall Street's aggressive interest rate cut bets. \r\nDuring an interview with FOX Business' Charles Payne and Edward Law… [+2875 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "TheStreet",
+            "title": "Morningstar's top 10 dividend stocks, including Pepsi - TheStreet",
+            "description": null,
+            "url": "https://www.thestreet.com/stocks/morningstar-top-10-dividend-stocks-including-pepsi",
+            "urlToImage": null,
+            "category": "business",
+            "publishedAt": "2024-01-19T20:42:57Z",
+            "content": null
+        }
+    ]
+}
