@@ -56,7 +56,7 @@ $articles_bisnis = json_decode ($data_bisnis, true);
     <link rel="icon" type="image/png" href="ico/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="ico/favicon-16x16.png" sizes="16x16" />
     <!-- Link CSS -->
-    <link rel="stylesheet" href="css/inex.css">
+    <link rel="stylesheet" href="css/indexxx.css">
     <!-- Link Ajax untuk membaca Json (API) -->
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/c0adbb8084.js" crossorigin="anonymous"></script>
@@ -233,7 +233,7 @@ $articles_bisnis = json_decode ($data_bisnis, true);
     <div class="all container">
         <div class="title">All News <span class="view-all"><a href="7all.php">View All</a></span></div>
         <h3 class="subtitle">All the news is here</h3>
-        <div class="articles-cards2 transition-item">
+        <div class="articles-cards2">
 
             <!-- Pemanggilan seluruh berita -->
             <?php
