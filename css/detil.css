@@ -977,4 +977,143 @@
     font-size: 15px;
 }
 
+  /* CSS untuk layar dengan lebar 600px atau kurang */
+  @media only screen and (max-width: 600px) {
+    .latest-cards >div {
+        max-width: 90px;
+        min-width: 90px;
+    }
 
+    .latest-cards > div .name {
+        font-weight: 600;
+        font-size: 11px;
+    }
+
+    .latest-cards > div p a{
+        font-size: 13px;
+    }
+
+    .latest-cards > div p.empatnew{
+        font-size: 10px;
+        height: 14px;
+        width: 70px;
+    }
+
+    .latest-cards > div h5 span{
+        font-size: 6px;
+    }
+
+    /* Navbar */
+    #about > h4{
+        font-size: 13px;
+    }
+
+    .download-app{
+        margin:  auto 10px auto auto;
+    }
+
+    /* Search */
+    .search-header > h2{
+        font-size: 18px;
+    }
+
+    .search-bar input::placeholder {
+        font-size: 13px;
+    }
+
+    /* Nav Card */
+    .nav-card-layout > div div {
+        padding: 0%;
+    }
+    .nav-card-layout > div::-webkit-scrollbar{
+        display: none;
+    }
+
+    .nav-card-layout > div div img {
+        height: 60px;
+    }
+
+    .nav-card-layout > div h4 {
+        font-size: 12px;
+    }
+
+    .nav-card-layout > div p a {
+        font-size: 8px;
+    }
+
+    /* All News */
+    
+    .articles-card1 > div{
+        cursor: pointer;
+        padding: 0px 0px;
+    }
+    
+    .articles-card1 > div p{
+        cursor: pointer;
+        font-size: 10px;
+        font-weight: 600;
+    }
+    
+    .articles-card1 > div p span{
+        cursor: pointer;
+        font-size: 10px;
+        font-weight: 400;
+    }
+    
+    .articles-card1 > div > img{
+        display: block;
+        margin: auto;
+        height: 200px;
+        margin-bottom: 70px;
+    }
+    
+    .articles-card1 > div > div{
+        padding: 0 10px 10px 20px;
+        box-sizing: border-box;
+        text-align: justify;
+    }
+    
+    .articles-card1 > div .name {
+        text-align: center;
+        font-weight:600;
+        font-size: 22px;
+        overflow: hidden;
+    }
+    
+    .articles-card1 > div h5{
+        font-weight: 400;
+        font-size: 13px;
+        text-align: justify;
+    }
+    
+    .articles-card1 > div h5 span a{
+        font-weight: 450;
+        line-height: 2.5;
+        font-size: 12px;
+        color: blue;
+        text-decoration: none;
+        text-align: justify;
+    }
+    
+    /* Footer */
+    .footer h3{
+        font-size: 13px;
+    }
+
+    .footer-top>div:last-child img{
+        width: 16px;
+    }
+
+    .footer-bottom img{
+        height: 15px;
+    }
+
+    .footer-bottom> div p{
+        font-size: 11px;
+    }
+    
+    .footer-top>div li {
+        font-size: 10px;
+    }
+
+}

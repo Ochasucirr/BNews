@@ -355,7 +355,7 @@
     width: 35%;
     margin-right: 25px;
     border-radius: 10px;
-    cursor: pointer;
+    cursor: text;
 }
 
 /*----- list ---*/
@@ -594,7 +594,6 @@
 .articles-cards2 > div{
     cursor: pointer;
     display: flex;
-    animation: fadeIn 0.8s ease-out;
 }
 
 .articles-cards2 > div > img{
@@ -862,3 +861,200 @@
     opacity: 1;
     transform: translateY(0);
   }
+
+  /* CSS untuk layar dengan lebar 600px atau kurang */
+@media only screen and (max-width: 600px) {
+    .latest-cards >div {
+        max-width: 90px;
+        min-width: 90px;
+    }
+
+    .latest-cards > div .name {
+        font-weight: 600;
+        font-size: 11px;
+    }
+
+    .latest-cards > div p a{
+        font-size: 13px;
+    }
+
+    .latest-cards > div p.empatnew{
+        font-size: 10px;
+        height: 14px;
+        width: 70px;
+    }
+
+    .latest-cards > div h5 span{
+        font-size: 6px;
+    }
+
+    /* Navbar */
+    #about > h4{
+        font-size: 13px;
+    }
+
+    .download-app{
+        margin:  auto 10px auto auto;
+    }
+
+    /* Search */
+    .search-header > h2{
+        font-size: 18px;
+    }
+
+    .search-bar input::placeholder {
+        font-size: 13px;
+    }
+
+    /* Nav Card */
+    .nav-card-layout > div {
+        gap: 5px;
+    }
+
+    .nav-card-layout > div h4 {
+        font-size: 12px;
+    }
+
+    .nav-card-layout > div p a {
+        font-size: 8px;
+    }
+
+    /* Banner */
+    .banner{
+        width: 80%;
+    }
+
+    /* list */
+    .cards-layout > div {
+        width: 310px;
+        height: 100px;
+    }
+
+    .cards-layout > div > p{
+        font-size: 10px;
+        line-height: 1.5;
+    }
+
+    .cards-layout > div > p span {
+        font-size: 12px;
+    }
+
+    /* question */
+    .question{
+        width: 80%;
+    }
+    .question > div p {
+        font-size: 6px;
+        line-height: 1.6;
+    }
+
+    .question p {
+        font-size: 8px;
+    }
+
+    .question > div:first-child button {
+        font-size: 9px;
+        font-weight: 700;
+        width: 105px;
+        display: inline-block;
+    }
+
+    .question > div:last-child > div > div > h3 {
+        font-size: 6px;
+        line-height: 1;
+    }
+
+    .question > div:last-child > h4 {
+        font-size: 8px;
+        line-height: 1;
+    }
+
+    .question > div:first-child img {
+        width: 40px;
+    }
+
+    .question > div:first-child {
+        font-size: 8px;
+    }
+
+    /* Member */
+    .member{
+        width: 100%;
+    }
+    
+    .member > div:nth-child(1) > h2 {
+        font-size: 14px;
+    }
+
+    .member > div:nth-child(2) > p {
+        font-size: 10px;
+    }
+
+    /* All News */
+    .articles-cards2 {
+        gap: 10px;
+        grid-template-columns: repeat(1, 1fr)
+    }
+
+    .articles-cards2 > div > img {
+        height: 70px;
+    }
+
+    .articles-cards2 > div .name {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .articles-cards2 > div p a{
+        font-size: 10px;
+    }
+
+    .articles-cards2 > div h5 span {
+        font-size: 11px;
+    }
+
+    /* Popular News */
+    .popular > div{ 
+        gap: 10px;
+    }
+
+    .popular > div img{
+        height: 100px;
+    }
+
+    .popular > div p.satunew{
+        font-size: 11px;
+    }
+
+    .popular > div p.duanew a{
+        font-size: 11px;
+    }
+
+    .popular > div p.empatnew{
+        font-size: 9px;
+        height: 14px;
+        width: 70px;
+    }
+
+    /* Footer */
+    .footer h3{
+        font-size: 13px;
+    }
+
+    .footer-top>div:last-child img{
+        width: 16px;
+    }
+
+    .footer-bottom img{
+        height: 15px;
+    }
+
+    .footer-bottom> div p{
+        font-size: 11px;
+    }
+    
+    .footer-top>div li {
+        font-size: 10px;
+    }
+
+}

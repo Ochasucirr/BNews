@@ -434,6 +434,7 @@
 .articles-cards2 > div .name {
     font-weight: 600;
     font-size: 20px;
+    line-height: 1.5;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
@@ -470,6 +471,7 @@
     margin: 20px 0;
     font-weight: 350;
     font-size: 16px;
+    line-height: 1.5;
     text-decoration: none;
     color: black;
 }
@@ -602,3 +604,168 @@
 }
 
 
+  /* CSS untuk layar dengan lebar 600px atau kurang */
+  @media only screen and (max-width: 600px) {
+    .latest-cards >div {
+        max-width: 90px;
+        min-width: 90px;
+    }
+
+    .latest-cards > div .name {
+        font-weight: 600;
+        font-size: 11px;
+    }
+
+    .latest-cards > div p a{
+        font-size: 13px;
+    }
+
+    .latest-cards > div p.empatnew{
+        font-size: 10px;
+        height: 14px;
+        width: 70px;
+    }
+
+    .latest-cards > div h5 span{
+        font-size: 6px;
+    }
+
+    /* Navbar */
+    #about > h4{
+        font-size: 13px;
+    }
+
+    .download-app{
+        margin:  auto 10px auto auto;
+    }
+
+    /* Search */
+    .search-header > h2{
+        font-size: 18px;
+    }
+
+    .search-bar input::placeholder {
+        font-size: 13px;
+    }
+
+    /* Nav Card */
+    .nav-card-layout > div div {
+        padding: 0%;
+    }
+    .nav-card-layout > div::-webkit-scrollbar{
+        display: none;
+    }
+
+    .nav-card-layout > div div img {
+        height: 60px;
+    }
+
+    .nav-card-layout > div h4 {
+        font-size: 12px;
+    }
+
+    .nav-card-layout > div p a {
+        font-size: 8px;
+    }
+
+    /* All News */
+
+    .articles-cards4 {
+        height: 45px;
+        width: 180px;
+        font-size: 13px;
+    }
+
+    .articles-cards3 {
+        width: 80px;
+        height: 620px;
+    }
+
+    .articles-cards3 > h2{
+        font-size: 15px;
+        line-height: 1;
+    }
+
+    .articles-cards3 > div .name a{
+        font-size: 6px;
+    }
+    
+    .articles-cards2 {
+        grid-template-columns: repeat(1, 1fr);
+        padding: 0px 0px 0px 10px;
+    }
+
+    .articles-cards2 > div > img {
+        height: 85px;
+        justify-content: center;
+        
+    }
+
+    .articles-cards2 > div .name {
+        font-size: 13px;
+        padding: 0px 40px 0px 0px;
+    }
+
+    .articles-cards2 > div p{
+        font-size: 7px;
+    }
+
+    .articles-cards2 > div h5 span {
+        font-size: 8px;
+    }
+
+    /* Cari */
+    .all > .articles-card {
+        display: grid;
+        grid-area: content;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .articles-card > div{
+        border-radius: 2px;
+    }
+    
+    .articles-card > div > img{
+        height: 90px;
+        padding: 2px;
+    }
+    
+    .articles-card > div .name {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 1.2;
+    }
+    
+    .articles-card > div p a{
+        font-size: 11px;
+        text-decoration: none;
+    }
+    
+    .articles-card > div h5 span{
+        font-size: 10px;
+        text-decoration: none;
+    }
+
+
+    /* Footer */
+    .footer h3{
+        font-size: 13px;
+    }
+
+    .footer-top>div:last-child img{
+        width: 16px;
+    }
+
+    .footer-bottom img{
+        height: 15px;
+    }
+
+    .footer-bottom> div p{
+        font-size: 11px;
+    }
+    
+    .footer-top>div li {
+        font-size: 10px;
+    }
+
+}
