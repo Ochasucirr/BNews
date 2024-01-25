@@ -56,7 +56,7 @@ $articles_bisnis = json_decode ($data_bisnis, true);
     <link rel="icon" type="image/png" href="ico/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="ico/favicon-16x16.png" sizes="16x16" />
     <!-- Link CSS -->
-    <link rel="stylesheet" href="css/mulaii.css">
+    <link rel="stylesheet" href="css/start.css">
     <!-- Link Ajax untuk membaca Json (API) -->
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/c0adbb8084.js" crossorigin="anonymous"></script>
